@@ -1,0 +1,35 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+header {
+    width: 480px;
+    font-family: sans-serif;
+    margin: auto;
+}
+ul {
+    list-style: none;
+}
+#menu a {
+    background-color: gray;
+    color: white;
+    text-decoration: none;
+}
+#menu li a {
+    min-width: 100px;
+    padding: 10px;
+    display: block;
+}
+#menu>li {
+    float: left;
+}
+#menu li>a:hover{
+    background-color: lightgray;
+    color:black
+}
+#menu>li>ul {
+     display:none;
+ }
+#menu>li:hover>ul {
+    display:block;
+}
