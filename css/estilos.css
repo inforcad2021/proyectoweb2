@@ -25,7 +25,7 @@ ul {
 }
 #menu li>a:hover{
     background-color: lightgray;
-    color:black
+    color:red
 }
 #menu>li>ul {
      display:none;
