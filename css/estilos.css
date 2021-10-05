@@ -24,7 +24,7 @@ ul {
     float: left;
 }
 #menu li>a:hover{
-    background-color: lightgray;
+    background-color: yellow;
     color:red
 }
 #menu>li>ul {
