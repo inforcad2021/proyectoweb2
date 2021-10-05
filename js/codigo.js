@@ -1,3 +1,3 @@
 function saludo {
-    alert('holaaa-mod');
+    alert('holaaa-modificacion');
 }
